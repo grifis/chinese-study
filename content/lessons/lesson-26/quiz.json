@@ -1,0 +1,222 @@
+[
+  {
+    "id": "quiz-1",
+    "prompt": "「彼の成績はクラスで一番です」を中国語にすると？",
+    "options": [
+      "A. 他的成绩全班第一。",
+      "B. 他的成绩全班快乐。",
+      "C. 他的成绩全班打开。"
+    ],
+    "correctIndex": 0,
+    "explanation": "正解：A. 他的成绩全班第一。 全班第一＝クラスで1位。成绩は「成績」。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "他的成绩全班第一。",
+      "pinyin": "Tā de chéngjì quán bān dì yī.",
+      "ja": "彼の成績はクラスで一番です。",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-2",
+    "prompt": "「来不了」のピンインは？",
+    "options": [
+      "A. lái bu le",
+      "B. lái bu liǎo",
+      "C. lái de liǎo"
+    ],
+    "correctIndex": 1,
+    "explanation": "正解：B. lái bu liǎo 可能補語の「了」は liǎo。完了の助詞 le とは別です。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "来不了",
+      "pinyin": "Lái bu liǎo",
+      "ja": "来られない",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-3",
+    "prompt": "「我吃完了。」の意味は？",
+    "options": [
+      "A. 食べ始めました",
+      "B. 食べ終わりました",
+      "C. 食べられません"
+    ],
+    "correctIndex": 1,
+    "explanation": "正解：B. 食べ終わりました 吃＋完で「食べ終える」。文末の了は完了・変化を示します。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "我吃完了。",
+      "pinyin": "Wǒ chī wán le.",
+      "ja": "食べ終わりました。",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-4",
+    "prompt": "「彼は走るのが速い」の正しい形は？",
+    "options": [
+      "A. 他跑得很快。",
+      "B. 他得跑很快。",
+      "C. 他跑不懂。"
+    ],
+    "correctIndex": 0,
+    "explanation": "正解：A. 他跑得很快。 動詞「跑」の後に「得＋程度（很快）」を置きます。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "他跑得很快。",
+      "pinyin": "Tā pǎo de hěn kuài.",
+      "ja": "彼は走るのが速いです。",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-5",
+    "prompt": "「请收下。」の意味は？",
+    "options": [
+      "A. 開けてください",
+      "B. お受け取りください",
+      "C. 座ってください"
+    ],
+    "correctIndex": 1,
+    "explanation": "正解：B. お受け取りください 收下は「受け取って手元に収める」。贈り物を渡すときの表現。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "请收下。",
+      "pinyin": "Qǐng shōu xià.",
+      "ja": "どうぞ受け取ってください。",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-6",
+    "prompt": "「箱を開けて見て」の中国語は？",
+    "options": [
+      "A. 你打开盒子看看。",
+      "B. 你吃完盒子看看。",
+      "C. 你祝盒子看看。"
+    ],
+    "correctIndex": 0,
+    "explanation": "正解：A. 你打开盒子看看。 打开盒子＝箱を開ける、看看＝ちょっと見てみる。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "你打开盒子看看。",
+      "pinyin": "Nǐ dǎ kāi hézi kànkan.",
+      "ja": "箱を開けて見てください。",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-7",
+    "prompt": "「この小さな子はなんてかわいい！」に合う表現は？",
+    "options": [
+      "A. 多可爱啊！",
+      "B. 不可以啊！",
+      "C. 可爱不了！"
+    ],
+    "correctIndex": 0,
+    "explanation": "正解：A. 多可爱啊！ 多＋形容詞＋啊 は感嘆。多可爱啊！",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "这个小东西多可爱啊！",
+      "pinyin": "Zhège xiǎo dōngxi duō kě’ài a!",
+      "ja": "この小さな子はなんてかわいいのでしょう！",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-8",
+    "prompt": "「祝你生日快乐！」は？",
+    "options": [
+      "A. 試験頑張って",
+      "B. 誕生日おめでとう",
+      "C. お大事に"
+    ],
+    "correctIndex": 1,
+    "explanation": "正解：B. 誕生日おめでとう 祝＋相手＋願い、で祝福する表現。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "祝你生日快乐！",
+      "pinyin": "Zhù nǐ shēngrì kuàilè!",
+      "ja": "お誕生日おめでとう！",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-9",
+    "prompt": "「考得真好」の「得」は何を説明する？",
+    "options": [
+      "A. 試験の出来・程度",
+      "B. 未来の予定",
+      "C. 所有者"
+    ],
+    "correctIndex": 0,
+    "explanation": "正解：A. 試験の出来・程度 「動詞＋得＋説明」で動作の様子・程度を表します。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "考得真好",
+      "pinyin": "Kǎo de zhēn hǎo",
+      "ja": "試験がとてもよくできた",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  },
+  {
+    "id": "quiz-10",
+    "prompt": "「听不懂」の意味は？",
+    "options": [
+      "A. 聞こえない",
+      "B. 聞いても理解できない",
+      "C. 聞き終えた"
+    ],
+    "correctIndex": 1,
+    "explanation": "正解：B. 聞いても理解できない 听不懂は聞いて理解することができない。聞こえないなら听不见が一般的。",
+    "origin": "ai",
+    "answerSentence": {
+      "zh": "听不懂",
+      "pinyin": "Tīng bu dǒng",
+      "ja": "聞いても理解できない",
+      "origin": "ai",
+      "sourceRef": "既存HTMLの復習クイズ／学習補足",
+      "status": "supplement",
+      "annotationOrigin": "ai",
+      "annotationStatus": "needs-review"
+    }
+  }
+]

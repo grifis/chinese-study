@@ -1,0 +1,14 @@
+node_modules/
+.svelte-kit/
+build/
+.env*
+.DS_Store
+coverage/
+
+.pnpm-store/
+
+# Original attachments remain local; never publish textbook photos or source HTML.
+content/lessons/*/source/*.jpg
+content/lessons/*/source/*.jpeg
+content/lessons/*/source/*.png
+content/lessons/*/source/*.html

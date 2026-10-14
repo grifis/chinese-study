@@ -1,0 +1,2973 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-26",
+  "number": 26,
+  "title": "祝贺你",
+  "subtitle": "おめでとう",
+  "book": "漢語会話301句・下冊",
+  "sources": [
+    {
+      "file": "3-写真3.jpg",
+      "description": "教科書画像 p.56–57"
+    },
+    {
+      "file": "6-chinese_lesson_26_complete_replacements.html",
+      "description": "提供HTML（未修正原資料）"
+    },
+    {
+      "file": "1-写真1.jpg",
+      "description": "教科書画像 p.52–53"
+    },
+    {
+      "file": "5-写真5.jpg",
+      "description": "教科書画像 p.60"
+    },
+    {
+      "file": "4-写真4.jpg",
+      "description": "教科書画像 p.58–59"
+    },
+    {
+      "file": "2-写真2.jpg",
+      "description": "教科書画像 p.54–55"
+    }
+  ],
+  "issues": [
+    {
+      "id": "annotation-review",
+      "location": "拼音・訳・模範解答",
+      "message": "教材の拼音・日本語訳・AI模範解答は学習補足です。原文は画像と照合済みですが、補足全体の中国語専門家による校閲は未実施です。",
+      "status": "needs-review"
+    },
+    {
+      "id": "audio",
+      "location": "練習6・7",
+      "message": "原本の音声は未提供。聞き取り練習は原文閲覧と再話例のみ収録。",
+      "status": "needs-review"
+    }
+  ],
+  "sections": {
+    "text": [
+      {
+        "id": "text-181",
+        "title": "181",
+        "sentences": [
+          {
+            "zh": "这次考试，成绩还可以。",
+            "pinyin": "Zhè cì kǎoshì, chéngjì hái kěyǐ.",
+            "ja": "今回の試験は成績がまあまあです。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "还可以＝まずまず、悪くない。"
+      },
+      {
+        "id": "text-182",
+        "title": "182",
+        "sentences": [
+          {
+            "zh": "他的成绩全班第一。",
+            "pinyin": "Tā de chéngjì quán bān dì yī.",
+            "ja": "彼の成績はクラスで一番です。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "全班＝クラス全体。第一＝1位。"
+      },
+      {
+        "id": "text-183",
+        "title": "183",
+        "sentences": [
+          {
+            "zh": "考得真好，祝贺你！",
+            "pinyin": "Kǎo de zhēn hǎo, zhùhè nǐ!",
+            "ja": "よくやりましたね。おめでとう。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "動詞＋得＋程度を表す語。「考得真好」＝試験の出来がとてもよい。"
+      },
+      {
+        "id": "text-184",
+        "title": "184",
+        "sentences": [
+          {
+            "zh": "祝你生日快乐！",
+            "pinyin": "Zhù nǐ shēngrì kuàilè!",
+            "ja": "お誕生日おめでとう。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "祝＋人＋願い。祝贺（祝福する）と祝（願う）を区別。"
+      },
+      {
+        "id": "text-185",
+        "title": "185",
+        "sentences": [
+          {
+            "zh": "祝你身体健康！",
+            "pinyin": "Zhù nǐ shēntǐ jiànkāng!",
+            "ja": "ご健康をお祈りします。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "身体健康＝健康であること。"
+      },
+      {
+        "id": "text-186",
+        "title": "186",
+        "sentences": [
+          {
+            "zh": "尼娜有事来不了。",
+            "pinyin": "Nínà yǒu shì lái bu liǎo.",
+            "ja": "ニーナちゃんは用事があるので、来られなくなりました。",
+            "origin": "textbook",
+            "sourceRef": "p.52",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "来不了＝事情により来ることができない。可能補語。"
+      },
+      {
+        "id": "text-187",
+        "title": "187",
+        "sentences": [
+          {
+            "zh": "你打开盒子看看。",
+            "pinyin": "Nǐ dǎ kāi hézi kànkan.",
+            "ja": "箱を開けて、見てください。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "打开＝開ける。看看＝ちょっと見てみる。"
+      },
+      {
+        "id": "text-188",
+        "title": "188",
+        "sentences": [
+          {
+            "zh": "我送你一件礼物，请收下。",
+            "pinyin": "Wǒ sòng nǐ yí jiàn lǐwù, qǐng shōu xià.",
+            "ja": "私からの贈り物です。どうぞ受け取ってください。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "件は贈り物などを数える量詞。收下＝受け取って手元に収める。"
+      }
+    ],
+    "dialogue": [
+      {
+        "id": "dialogue-1",
+        "title": "会話1 · 刘京",
+        "sentences": [
+          {
+            "zh": "这次考试成绩怎么样？",
+            "pinyin": "Zhè cì kǎoshì chéngjì zěnmeyàng?",
+            "ja": "今回の試験の成績はどうだった？",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-2",
+        "title": "会話1 · 大卫",
+        "sentences": [
+          {
+            "zh": "还可以。笔试九十分，口试八十五分。",
+            "pinyin": "Hái kěyǐ. Bǐshì jiǔshí fēn, kǒushì bāshíwǔ fēn.",
+            "ja": "まあまあだよ。筆記は90点、口頭試験は85点。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-3",
+        "title": "会話1 · 玛丽",
+        "sentences": [
+          {
+            "zh": "你知道吗？他的成绩全班第一。",
+            "pinyin": "Nǐ zhīdào ma? Tā de chéngjì quán bān dì yī.",
+            "ja": "知ってる？彼の成績はクラスで一番なの。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-4",
+        "title": "会話1 · 刘京",
+        "sentences": [
+          {
+            "zh": "考得真好，祝贺你！",
+            "pinyin": "Kǎo de zhēn hǎo, zhùhè nǐ!",
+            "ja": "本当によくできたね。おめでとう！",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-5",
+        "title": "会話1 · 大卫",
+        "sentences": [
+          {
+            "zh": "玛丽也考得不错。",
+            "pinyin": "Mǎlì yě kǎo de búcuò.",
+            "ja": "メアリーもよくできたよ。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-6",
+        "title": "会話1 · 玛丽",
+        "sentences": [
+          {
+            "zh": "这要感谢刘京和王兰的帮助。",
+            "pinyin": "Zhè yào gǎnxiè Liú Jīng hé Wáng Lán de bāngzhù.",
+            "ja": "これは劉京と王蘭の助けに感謝しないとね。",
+            "origin": "textbook",
+            "sourceRef": "p.53",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-7",
+        "title": "会話2 · 玛丽",
+        "sentences": [
+          {
+            "zh": "王兰，祝你生日快乐！",
+            "pinyin": "Wáng Lán, zhù nǐ shēngrì kuàilè!",
+            "ja": "王蘭、お誕生日おめでとう！",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-8",
+        "title": "会話2 · 刘京",
+        "sentences": [
+          {
+            "zh": "我们送你一个生日蛋糕。祝你身体健康！",
+            "pinyin": "Wǒmen sòng nǐ yí ge shēngrì dàngāo. Zhù nǐ shēntǐ jiànkāng!",
+            "ja": "誕生日ケーキを贈るよ。健康を祈るよ！",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-9",
+        "title": "会話2 · 王兰",
+        "sentences": [
+          {
+            "zh": "谢谢！",
+            "pinyin": "Xièxie!",
+            "ja": "ありがとう！",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-10",
+        "title": "会話2 · 大卫",
+        "sentences": [
+          {
+            "zh": "这是我给你的花儿。",
+            "pinyin": "Zhè shì wǒ gěi nǐ de huār.",
+            "ja": "これは君への花だよ。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-11",
+        "title": "会話2 · 王兰",
+        "sentences": [
+          {
+            "zh": "这些花儿真漂亮。",
+            "pinyin": "Zhèxiē huār zhēn piàoliang.",
+            "ja": "この花、とてもきれいね。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-12",
+        "title": "会話2 · 大卫",
+        "sentences": [
+          {
+            "zh": "尼娜有事来不了，她祝你生日愉快。",
+            "pinyin": "Nínà yǒu shì lái bu liǎo, tā zhù nǐ shēngrì yúkuài.",
+            "ja": "ニーナは用事で来られないけど、誕生日を祝っているよ。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-13",
+        "title": "会話2 · 王兰",
+        "sentences": [
+          {
+            "zh": "谢谢。大家请坐。",
+            "pinyin": "Xièxie. Dàjiā qǐng zuò.",
+            "ja": "ありがとう。みんな座って。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-14",
+        "title": "会話2 · 和子",
+        "sentences": [
+          {
+            "zh": "我送你一件礼物，请收下。",
+            "pinyin": "Wǒ sòng nǐ yí jiàn lǐwù, qǐng shōu xià.",
+            "ja": "プレゼントを贈るわ。受け取ってね。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-15",
+        "title": "会話2 · 刘京",
+        "sentences": [
+          {
+            "zh": "你知道她送的是什么吗？",
+            "pinyin": "Nǐ zhīdào tā sòng de shì shénme ma?",
+            "ja": "彼女が何を贈ったか知ってる？",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-16",
+        "title": "会話2 · 王兰",
+        "sentences": [
+          {
+            "zh": "不知道。",
+            "pinyin": "Bù zhīdào.",
+            "ja": "知らないわ。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-17",
+        "title": "会話2 · 和子",
+        "sentences": [
+          {
+            "zh": "你打开盒子看看。",
+            "pinyin": "Nǐ dǎ kāi hézi kànkan.",
+            "ja": "箱を開けて見てみて。",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-18",
+        "title": "会話2 · 王兰",
+        "sentences": [
+          {
+            "zh": "啊，是一只小狗。",
+            "pinyin": "Ā, shì yì zhī xiǎo gǒu.",
+            "ja": "あっ、子犬だ！",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      },
+      {
+        "id": "dialogue-19",
+        "title": "会話2 · 刘京",
+        "sentences": [
+          {
+            "zh": "这个小东西多可爱啊！",
+            "pinyin": "Zhège xiǎo dōngxi duō kě’ài a!",
+            "ja": "この小さな子、なんてかわいいんだ！",
+            "origin": "textbook",
+            "sourceRef": "p.54",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "この会話の犬は注釈ではおもちゃの小犬です。訳の「小さな子」は愛情のこもった呼び方です。",
+        "textbookExplanation": "“小东西”这里指的是玩具小狗。有时“小东西”也可指人或动物，并含有爱怜的感情。",
+        "textbookJapanese": "「小东西」はここではおもちゃの犬を指す。人間や動物を指す時もある。「可愛がる気持ち」がこめられている。",
+        "sourceRef": "p.55 注释"
+      }
+    ],
+    "grammar": [
+      {
+        "id": "grammar-1",
+        "title": "可能补语（1）",
+        "sentences": [],
+        "notes": "動詞と結果・方向を表す補語の間に得／不を入れ、実現できるかを表します。「能＋動詞」との言い換えは文脈に注意。",
+        "textbookExplanation": "在动词和结果补语之间加上结构助词“得”，就构成了表示可能的可能补语。如“修得好”“打得开”，就是“能修好”“能打开”的意思。它的否定式是将中间的“得”换成“不”，如“修不好”“打不开”等等。",
+        "sourceRef": "p.57",
+        "textbookJapanese": "動詞とその結果補語の間に構造助詞「得」を加えると、可能を表す可能補語を作ることができる。例えば「修得好」は「能修好」、「打得开」は「能打开」という意味である。その否定式は構造助詞「得」を「不」に換えて作られる。例えば「修不好」、「打不开」などである。"
+      },
+      {
+        "id": "grammar-2",
+        "title": "动词“了”作可能补语",
+        "sentences": [
+          {
+            "zh": "明天你去得了公园吗？",
+            "pinyin": "Míngtiān nǐ qù de liǎo gōngyuán ma?",
+            "ja": "明日、公園に行けますか？",
+            "origin": "textbook",
+            "sourceRef": "p.57",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "他病了，今天来不了。",
+            "pinyin": "Tā bìng le, jīntiān lái bu liǎo.",
+            "ja": "彼は病気になったので、今日は来られません。",
+            "origin": "textbook",
+            "sourceRef": "p.57",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "可能補語の了はliǎo。文末の変化・完了の了（le）と区別します。",
+        "textbookExplanation": "（1）动词“了”表示“完毕”或“结束”的意思。常用在动词后，构成可能补语，表示对行为实现的可能性作出估计。例如：",
+        "sourceRef": "p.57",
+        "textbookJapanese": "動詞「了」は「完了」、「終わる」という意味を表す。動詞の後にいれて、可能補語を作ることができる。その場合、動作実現の可能性についての予測を表す。例えば、"
+      },
+      {
+        "id": "grammar-3",
+        "title": "“了”：完毕の意味",
+        "sentences": [
+          {
+            "zh": "这么多菜，我一个人吃不了。",
+            "pinyin": "Zhème duō cài, wǒ yí ge rén chī bu liǎo.",
+            "ja": "こんなに多くの料理は一人では食べきれません。",
+            "origin": "textbook",
+            "sourceRef": "p.57",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "做这点儿练习，用不了半个小时。",
+            "pinyin": "Zuò zhè diǎnr liànxí, yòng bu liǎo bàn ge xiǎoshí.",
+            "ja": "これくらいの練習には30分もかかりません。",
+            "origin": "textbook",
+            "sourceRef": "p.57",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "吃不了は量が多くて食べきれない。用不了はその量・時間を必要としない意味にもなります。",
+        "textbookExplanation": "（2）有时作可能补语仍旧表示“完毕”的意思。例如：",
+        "sourceRef": "p.57",
+        "textbookJapanese": "可能補語として使われる時、ただ「完了」の意味を表す場合もある。例えば、"
+      },
+      {
+        "id": "grammar-4",
+        "title": "“开”：結果補語",
+        "sentences": [
+          {
+            "zh": "她打开衣柜拿了一件衣服。",
+            "pinyin": "Tā dǎ kāi yīguì ná le yí jiàn yīfu.",
+            "ja": "彼女は洋服だんすを開け、服を一着取りました。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "请打开书，看第十五页（yè，ページ）。",
+            "pinyin": "Qǐng dǎ kāi shū, kàn dì shíwǔ yè.",
+            "ja": "本を開いて15ページを見てください。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "车来了，快走开！",
+            "pinyin": "Chē lái le, kuài zǒu kāi!",
+            "ja": "車が来た、早く離れて！",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "快拿开桌子上的东西。",
+            "pinyin": "Kuài ná kāi zhuōzi shang de dōngxi.",
+            "ja": "早く机の上のものをどけてください。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "前の動詞が動作、开が「開く・離れる」という結果を表します。",
+        "textbookExplanation": "（1）表示通过动作使合拢、连接的东西分开。例如：\n（2）表示通过动作，使人或物离开某处。例如：",
+        "sourceRef": "p.57–58",
+        "textbookJapanese": "動作によって閉まっているものを開けたり、つながっているものを分けたりすることを表す。例えば、\n動作によって人や物がある場所を離れることを表す。例えば、"
+      },
+      {
+        "id": "grammar-5",
+        "title": "“下”：結果補語",
+        "sentences": [
+          {
+            "zh": "你坐下吧。",
+            "pinyin": "Nǐ zuò xià ba.",
+            "ja": "座ってください。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "他放下书就去吃饭了。",
+            "pinyin": "Tā fàng xià shū jiù qù chī fàn le.",
+            "ja": "彼は本を置いてすぐ食事に行きました。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "坐下・放下では下方向への移動が結果になります。",
+        "textbookExplanation": "（1）表示人或事物随动作从高处到低处。例如：",
+        "sourceRef": "p.58",
+        "textbookJapanese": "人や物が動作と共に高いところから低いところに向かうことを表す。例えば、"
+      },
+      {
+        "id": "grammar-6",
+        "title": "“下”：固定した場所に残す",
+        "sentences": [
+          {
+            "zh": "写下你的电话号码。",
+            "pinyin": "Xiě xià nǐ de diànhuà hàomǎ.",
+            "ja": "あなたの電話番号を書き留めてください。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "请收下这个礼物吧。",
+            "pinyin": "Qǐng shōu xià zhège lǐwù ba.",
+            "ja": "この贈り物をお受け取りください。",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "写下は書き留める、收下は受け取って手元に収める。必ずしも物理的な下方向ではありません。",
+        "textbookExplanation": "（2）使人或某物固定在某处。例如：",
+        "sourceRef": "p.58",
+        "textbookJapanese": "人や物がある場所に固定することを表す。例えば、"
+      },
+      {
+        "id": "grammar-extra-1",
+        "title": "可能補語「得／不」",
+        "sentences": [
+          {
+            "zh": "听得懂吗？",
+            "pinyin": "Tīng de dǒng ma?",
+            "ja": "聞いて理解できますか？",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 1\n可能補語「得／不」\n動詞の後ろに「得」または「不」を置き、その動作が実現できるかを示します。\n形・ポイント\n听得懂＝聞いて理解できる／听不懂＝聞いても理解できない。\n例文\n听得懂吗？ Tīng de dǒng ma?（聞いて理解できますか？）\nつまずきやすいポイントを表示\n「得」は程度補語の得（跑得快）とも形が似ていますが、可能補語では「できる／できない」を表します。\n追加例文（元の例文は上に残しています）\n明天你去得了公园吗？　Míngtiān nǐ qù de liǎo gōngyuán ma?　— 明日、公園に行けますか？\n他病了，今天来不了。　Tā bìng le, jīntiān lái bu liǎo.　— 彼は病気になったので、今日は来られません。\n这么多菜，我一个人吃不了。　Zhème duō cài, wǒ yí ge rén chī bu liǎo.　— こんなに多くの料理は、私一人では食べきれません。\n做这点儿练习，用不了半个小时。　Zuò zhè diǎnr liànxí, yòng bu liǎo bàn ge xiǎoshí.　— これくらいの練習なら30分もかかりません。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-2",
+        "title": "「了」の二つの読み",
+        "sentences": [
+          {
+            "zh": "尼娜有事来不了。",
+            "pinyin": "Nínà yǒu shì lái bu liǎo.",
+            "ja": "ニーナは用事で来られません。",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 2\n「了」の二つの読み\n完了を表す助詞の「了」は通常 le。可能補語の一部「不了」は liǎo と読みます。\n形・ポイント\n来不了 lái bu liǎo＝来られない。\n例文\n尼娜有事来不了。 Nínà yǒu shì lái bu liǎo.（ニーナは用事があって来られません）\nつまずきやすいポイントを表示\n「来了（lái le）」は「来た」、「来不了（lái bu liǎo）」は「来られない」。音も文法も異なります。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-3",
+        "title": "結果補語「完」",
+        "sentences": [
+          {
+            "zh": "我吃完了。",
+            "pinyin": "Wǒ chī wán le.",
+            "ja": "食べ終わりました。",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 3\n結果補語「完」\n動詞の後ろに置き、動作を最後までやり終えたことを表します。\n形・ポイント\n吃完＝食べ終える／看完＝見終える／做完＝やり終える。\n例文\n我吃完了。 Wǒ chī wán le.（食べ終わりました）\nつまずきやすいポイントを表示\n我吃了＝食べた、我吃完了＝食べ終えた。完了の有無まで言い切るのが「完」です。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-4",
+        "title": "結果補語「下」",
+        "sentences": [
+          {
+            "zh": "请收下。",
+            "pinyin": "Qǐng shōu xià.",
+            "ja": "どうぞお受け取りください。",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 4\n結果補語「下」\n動詞の後ろに置き、受け取って手元に置く、記録として残すなどの結果を表すことがあります。\n形・ポイント\n收下＝受け取る／写下＝書き留める／记下＝記録する。\n例文\n请收下。 Qǐng shōu xià.（どうぞお受け取りください）\nつまずきやすいポイントを表示\n「下」だけを機械的に「下方向」と訳さず、動詞とセットで意味を覚えます。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-5",
+        "title": "「得」の程度補語",
+        "sentences": [
+          {
+            "zh": "他跑得很快。",
+            "pinyin": "Tā pǎo de hěn kuài.",
+            "ja": "彼は走るのが速いです。",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 5\n「得」の程度補語\n動作の様子や程度を説明するとき「動詞＋得＋説明」の順にします。\n形・ポイント\n考得真好＝試験の出来がとてもよい。\n例文\n他跑得很快。 Tā pǎo de hěn kuài.（彼は走るのが速い）\nつまずきやすいポイントを表示\n「他跑很快」よりも、動作の様子を表す「跑得很快」を基本形として覚えましょう。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-6",
+        "title": "「打」「开」の結果補語",
+        "sentences": [
+          {
+            "zh": "你打开盒子看看。",
+            "pinyin": "Nǐ dǎ kāi hézi kànkan.",
+            "ja": "箱を開けて見てください。",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 6\n「打」「开」の結果補語\n打开は「開ける」。動詞「打」に結果の「开」が付いた形として理解できます。\n形・ポイント\n打开盒子＝箱を開ける。\n例文\n你打开盒子看看。 Nǐ dǎ kāi hézi kànkan.（箱を開けて見て）\nつまずきやすいポイントを表示\n「开」は単独では「開く」などの意味もあります。这里では「打」と合わせて一つの動詞として覚えると便利。",
+        "sourceRef": "提供HTML／AI補足"
+      },
+      {
+        "id": "grammar-extra-7",
+        "title": "「多……啊」の感嘆",
+        "sentences": [
+          {
+            "zh": "这个小东西多可爱啊！",
+            "pinyin": "Zhège xiǎo dōngxi duō kě’ài a!",
+            "ja": "この小さな子はなんてかわいいのでしょう！",
+            "origin": "ai",
+            "sourceRef": "既存HTMLの学習補足",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "既存HTMLの補足説明（教科書原文とは区別）",
+        "supplementText": "文法 7\n「多……啊」の感嘆\n「多＋形容詞＋啊」で「なんて〜なんだ！」と感情を表します。\n形・ポイント\n多可爱啊＝なんてかわいいんだ。\n例文\n这个小东西多可爱啊！ Zhège xiǎo dōngxi duō kě’ài a!\nつまずきやすいポイントを表示\n疑問の「どれくらい」ではなく、ここでは感嘆の多です。",
+        "sourceRef": "提供HTML／AI補足"
+      }
+    ],
+    "vocabulary": [
+      {
+        "id": "word-1",
+        "title": "1",
+        "sentences": [
+          {
+            "zh": "成绩",
+            "pinyin": "chéngjì",
+            "ja": "成績",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-2",
+        "title": "2",
+        "sentences": [
+          {
+            "zh": "全",
+            "pinyin": "quán",
+            "ja": "全部の、すべての；完全に",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "形/副",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-3",
+        "title": "3",
+        "sentences": [
+          {
+            "zh": "班",
+            "pinyin": "bān",
+            "ja": "クラス",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-4",
+        "title": "4",
+        "sentences": [
+          {
+            "zh": "考",
+            "pinyin": "kǎo",
+            "ja": "試験を受ける",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-5",
+        "title": "5",
+        "sentences": [
+          {
+            "zh": "祝贺",
+            "pinyin": "zhùhè",
+            "ja": "祝う、祝賀する",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-6",
+        "title": "6",
+        "sentences": [
+          {
+            "zh": "祝",
+            "pinyin": "zhù",
+            "ja": "祝う、願う",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-7",
+        "title": "7",
+        "sentences": [
+          {
+            "zh": "快乐",
+            "pinyin": "kuàilè",
+            "ja": "楽しい",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "形",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-8",
+        "title": "8",
+        "sentences": [
+          {
+            "zh": "了",
+            "pinyin": "liǎo",
+            "ja": "「動詞＋得」か「動詞＋不」の後に入れて可能を表す",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-9",
+        "title": "9",
+        "sentences": [
+          {
+            "zh": "打开",
+            "pinyin": "dǎ kāi",
+            "ja": "開ける",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-10",
+        "title": "10",
+        "sentences": [
+          {
+            "zh": "盒子",
+            "pinyin": "hézi",
+            "ja": "箱、ケース",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-11",
+        "title": "11",
+        "sentences": [
+          {
+            "zh": "笔试",
+            "pinyin": "bǐshì",
+            "ja": "筆記試験",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-12",
+        "title": "12",
+        "sentences": [
+          {
+            "zh": "分",
+            "pinyin": "fēn",
+            "ja": "点数",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-13",
+        "title": "13",
+        "sentences": [
+          {
+            "zh": "口试",
+            "pinyin": "kǒushì",
+            "ja": "口頭試験",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-14",
+        "title": "14",
+        "sentences": [
+          {
+            "zh": "蛋糕",
+            "pinyin": "dàngāo",
+            "ja": "ケーキ",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-15",
+        "title": "15",
+        "sentences": [
+          {
+            "zh": "只",
+            "pinyin": "zhī",
+            "ja": "犬などの動物を数える助数詞",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "量",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-16",
+        "title": "16",
+        "sentences": [
+          {
+            "zh": "狗",
+            "pinyin": "gǒu",
+            "ja": "犬",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-17",
+        "title": "17",
+        "sentences": [
+          {
+            "zh": "可爱",
+            "pinyin": "kě’ài",
+            "ja": "かわいい",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "形",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-18",
+        "title": "18",
+        "sentences": [
+          {
+            "zh": "幸福",
+            "pinyin": "xìngfú",
+            "ja": "幸福である；幸せ",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "形/名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-19",
+        "title": "19",
+        "sentences": [
+          {
+            "zh": "门",
+            "pinyin": "mén",
+            "ja": "ドア、門",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-20",
+        "title": "20",
+        "sentences": [
+          {
+            "zh": "问题",
+            "pinyin": "wèntí",
+            "ja": "問題",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-21",
+        "title": "21",
+        "sentences": [
+          {
+            "zh": "难",
+            "pinyin": "nán",
+            "ja": "難しい",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "形",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-22",
+        "title": "22",
+        "sentences": [
+          {
+            "zh": "微信",
+            "pinyin": "wēixìn",
+            "ja": "ウィチャット",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "名",
+        "meaningOrigin": "textbook"
+      },
+      {
+        "id": "word-23",
+        "title": "23",
+        "sentences": [
+          {
+            "zh": "新婚",
+            "pinyin": "xīnhūn",
+            "ja": "新婚",
+            "origin": "textbook",
+            "sourceRef": "p.56",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "",
+        "wordClass": "动",
+        "meaningOrigin": "textbook"
+      }
+    ],
+    "replacements": [
+      {
+        "id": "replacement-1",
+        "title": "置き換え 1",
+        "sentences": [
+          {
+            "zh": "祝你生日快乐！",
+            "pinyin": "Zhù nǐ shēngrì kuàilè!",
+            "ja": "お誕生日おめでとう！",
+            "origin": "textbook",
+            "sourceRef": "p.55",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "完成文・訳・拼音は候補から作成した学習補足。元の文と候補は教科書由来。",
+        "candidates": [
+          {
+            "zh": "生日愉快",
+            "pinyin": "shēngrì yúkuài"
+          },
+          {
+            "zh": "身体健康",
+            "pinyin": "shēntǐ jiànkāng"
+          },
+          {
+            "zh": "生活幸福",
+            "pinyin": "shēnghuó xìngfú"
+          },
+          {
+            "zh": "工作顺利",
+            "pinyin": "gōngzuò shùnlì"
+          }
+        ],
+        "completed": [
+          {
+            "zh": "祝你生日愉快！",
+            "pinyin": "Zhù nǐ shēngrì yúkuài!",
+            "ja": "お誕生日おめでとう！",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "祝你身体健康！",
+            "pinyin": "Zhù nǐ shēntǐ jiànkāng!",
+            "ja": "健康をお祈りします。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "祝你生活幸福！",
+            "pinyin": "Zhù nǐ shēnghuó xìngfú!",
+            "ja": "幸せな生活をお祈りします。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "祝你工作顺利！",
+            "pinyin": "Zhù nǐ gōngzuò shùnlì!",
+            "ja": "仕事が順調に進みますように。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ]
+      },
+      {
+        "id": "replacement-2",
+        "title": "置き換え 2",
+        "sentences": [
+          {
+            "zh": "你打开盒子看看。",
+            "pinyin": "Nǐ dǎkāi hézi kànkan.",
+            "ja": "箱を開けて見てください。",
+            "origin": "textbook",
+            "sourceRef": "p.55",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "完成文・訳・拼音は候補から作成した学習補足。元の文と候補は教科書由来。",
+        "candidates": [
+          {
+            "zh": "衣柜＋找",
+            "pinyin": "yīguì + zhǎo"
+          },
+          {
+            "zh": "窗户＋看",
+            "pinyin": "chuānghu + kàn"
+          },
+          {
+            "zh": "信箱＋看",
+            "pinyin": "xìnxiāng + kàn"
+          },
+          {
+            "zh": "门＋看",
+            "pinyin": "mén + kàn"
+          }
+        ],
+        "completed": [
+          {
+            "zh": "你打开衣柜找找。",
+            "pinyin": "Nǐ dǎkāi yīguì zhǎozhao.",
+            "ja": "洋服だんすを開けて探してみて。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "你打开窗户看看。",
+            "pinyin": "Nǐ dǎkāi chuānghu kànkan.",
+            "ja": "窓を開けて見てみて。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "你打开信箱看看。",
+            "pinyin": "Nǐ dǎkāi xìnxiāng kànkan.",
+            "ja": "郵便受けを開けて見てみて。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "你打开门看看。",
+            "pinyin": "Nǐ dǎkāi mén kànkan.",
+            "ja": "ドアを開けて見てみて。",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ]
+      },
+      {
+        "id": "replacement-3",
+        "title": "置き換え 3",
+        "sentences": [
+          {
+            "zh": "这个小东西多可爱啊！",
+            "pinyin": "Zhège xiǎo dōngxi duō kě’ài a!",
+            "ja": "この小さな子はなんてかわいいんだ！",
+            "origin": "textbook",
+            "sourceRef": "p.55",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "完成文・訳・拼音は候補から作成した学習補足。元の文と候補は教科書由来。",
+        "candidates": [
+          {
+            "zh": "公园＋美",
+            "pinyin": "gōngyuán + měi"
+          },
+          {
+            "zh": "问题＋难",
+            "pinyin": "wèntí + nán"
+          },
+          {
+            "zh": "鱼＋好吃",
+            "pinyin": "yú + hǎochī"
+          },
+          {
+            "zh": "地方＋好玩儿",
+            "pinyin": "dìfang + hǎowánr"
+          }
+        ],
+        "completed": [
+          {
+            "zh": "这个公园多美啊！",
+            "pinyin": "Zhège gōngyuán duō měi a!",
+            "ja": "この公園はなんて美しいんだ！",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "这个问题多难啊！",
+            "pinyin": "Zhège wèntí duō nán a!",
+            "ja": "この問題はなんて難しいんだ！",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "这个鱼多好吃啊！",
+            "pinyin": "Zhège yú duō hǎochī a!",
+            "ja": "この魚はなんておいしいんだ！",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          },
+          {
+            "zh": "这个地方多好玩儿啊！",
+            "pinyin": "Zhège dìfang duō hǎowánr a!",
+            "ja": "この場所はなんて楽しいんだ！",
+            "origin": "ai",
+            "sourceRef": "p.55の候補に基づく完成文",
+            "status": "supplement",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ]
+      }
+    ],
+    "expansion": [
+      {
+        "id": "expansion-1",
+        "title": "広げる 1",
+        "sentences": [
+          {
+            "zh": "今天玛丽的一个朋友结婚，玛丽发了微信祝贺他们。",
+            "pinyin": "Jīntiān Mǎlì de yí ge péngyou jiéhūn, Mǎlì fā le Wēixìn zhùhè tāmen.",
+            "ja": "今日、マリーの友人が結婚し、マリーはWeChatでお祝いのメッセージを送りました。",
+            "origin": "textbook",
+            "sourceRef": "p.55",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "HTMLの「忘了」を画像の「发了」に修正。"
+      },
+      {
+        "id": "expansion-2",
+        "title": "広げる 2",
+        "sentences": [
+          {
+            "zh": "祝你们新婚愉快，生活幸福！",
+            "pinyin": "Zhù nǐmen xīnhūn yúkuài, shēnghuó xìngfú!",
+            "ja": "ご結婚おめでとうございます。幸せな生活をお祈りします。",
+            "origin": "textbook",
+            "sourceRef": "p.55",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": ""
+      }
+    ],
+    "practice": [
+      {
+        "id": "practice-1-1",
+        "title": "1 · 熟读下列短语并选择几个造句 · 1",
+        "sentences": [
+          {
+            "zh": "全班　全家　全校　全国",
+            "pinyin": "quán bān 　 quán jiā 　 quán xiào 　 quán guó",
+            "ja": "クラス全体・家族全員・学校全体・全国",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "語句をよく読み、いくつか選んで文を作る。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "全班同学都来了。",
+              "pinyin": "Quán bān tóngxué dōu lái le.",
+              "ja": "クラス全員が来ました。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "祝你们全家幸福！",
+              "pinyin": "Zhù nǐmen quán jiā xìngfú!",
+              "ja": "ご家族の幸せを祈ります。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "全校学生都参加了。",
+              "pinyin": "Quán xiào xuésheng dōu cānjiā le.",
+              "ja": "全校の学生が参加しました。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "全国人民都很高兴。",
+              "pinyin": "Quán guó rénmín dōu hěn gāoxìng.",
+              "ja": "全国の人々が喜んでいます。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "全班",
+              "pinyin": "quán bān",
+              "ja": "クラス全員"
+            },
+            {
+              "zh": "全家",
+              "pinyin": "quán jiā",
+              "ja": "家族全員"
+            },
+            {
+              "zh": "全校",
+              "pinyin": "quán xiào",
+              "ja": "学校全体"
+            },
+            {
+              "zh": "全国",
+              "pinyin": "quán guó",
+              "ja": "全国"
+            }
+          ],
+          "grammar": "語句を音読し、語句を使って文を作ります。",
+          "reason": "語句を音読し、語句を使って文を作ります。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-1-2",
+        "title": "1 · 熟读下列短语并选择几个造句 · 2",
+        "sentences": [
+          {
+            "zh": "生活幸福　全家幸福　幸福的生活　幸福的孩子",
+            "pinyin": "shēnghuó xìngfú / quán jiā xìngfú / xìngfú de shēnghuó / xìngfú de háizi",
+            "ja": "幸せな生活・家族全員が幸せ・幸せな生活・幸せな子ども",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "語句をよく読み、いくつか選んで文を作る。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "祝你生活幸福！",
+              "pinyin": "Zhù nǐ shēnghuó xìngfú!",
+              "ja": "幸せな生活を祈ります。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "祝你全家幸福！",
+              "pinyin": "Zhù nǐ quán jiā xìngfú!",
+              "ja": "ご家族の幸せを祈ります。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "我们过着幸福的生活。",
+              "pinyin": "Wǒmen guòzhe xìngfú de shēnghuó.",
+              "ja": "私たちは幸せな生活を送っています。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "她是一个幸福的孩子。",
+              "pinyin": "Tā shì yí ge xìngfú de háizi.",
+              "ja": "彼女は幸せな子です。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "生活幸福",
+              "pinyin": "shēnghuó xìngfú",
+              "ja": "幸せな生活"
+            },
+            {
+              "zh": "全家幸福",
+              "pinyin": "quán jiā xìngfú",
+              "ja": "家族全員が幸せ"
+            },
+            {
+              "zh": "幸福的生活",
+              "pinyin": "xìngfú de shēnghuó",
+              "ja": "幸せな生活"
+            },
+            {
+              "zh": "幸福的孩子",
+              "pinyin": "xìngfú de háizi",
+              "ja": "幸せな子ども"
+            }
+          ],
+          "grammar": "語句を音読し、語句を使って文を作ります。",
+          "reason": "語句を音読し、語句を使って文を作ります。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-1-3",
+        "title": "1 · 熟读下列短语并选择几个造句 · 3",
+        "sentences": [
+          {
+            "zh": "买礼物　送礼物　生日礼物　结婚礼物",
+            "pinyin": "mǎi lǐ wù 　 sòng lǐ wù 　 shēng rì lǐ wù 　 jié hūn lǐ wù",
+            "ja": "贈り物を買う・贈り物を贈る・誕生日プレゼント・結婚祝い",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "語句をよく読み、いくつか選んで文を作る。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "我去买礼物。",
+              "pinyin": "Wǒ qù mǎi lǐwù.",
+              "ja": "贈り物を買いに行きます。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "我送你一件礼物。",
+              "pinyin": "Wǒ sòng nǐ yí jiàn lǐwù.",
+              "ja": "贈り物を一つ贈ります。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "这是你的生日礼物。",
+              "pinyin": "Zhè shì nǐ de shēngrì lǐwù.",
+              "ja": "これはあなたの誕生日プレゼントです。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "这是结婚礼物。",
+              "pinyin": "Zhè shì jiéhūn lǐwù.",
+              "ja": "これは結婚祝いです。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "买礼物",
+              "pinyin": "mǎi lǐwù",
+              "ja": "贈り物を買う"
+            },
+            {
+              "zh": "送礼物",
+              "pinyin": "sòng lǐwù",
+              "ja": "贈り物を贈る"
+            },
+            {
+              "zh": "生日礼物",
+              "pinyin": "shēngrì lǐwù",
+              "ja": "誕生日の贈り物"
+            },
+            {
+              "zh": "结婚礼物",
+              "pinyin": "jiéhūn lǐwù",
+              "ja": "結婚祝い"
+            }
+          ],
+          "grammar": "語句を音読し、語句を使って文を作ります。",
+          "reason": "語句を音読し、語句を使って文を作ります。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-1-4",
+        "title": "1 · 熟读下列短语并选择几个造句 · 4",
+        "sentences": [
+          {
+            "zh": "来得了　来不了　吃得了　吃不了",
+            "pinyin": "lái de liǎo / lái bu liǎo / chī de liǎo / chī bu liǎo",
+            "ja": "来られる・来られない・食べきれる・食べきれない",
+            "origin": "textbook",
+            "sourceRef": "p.58",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "語句をよく読み、いくつか選んで文を作る。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "明天你来得了吗？",
+              "pinyin": "Míngtiān nǐ lái de liǎo ma?",
+              "ja": "明日来られますか？",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "他今天来不了。",
+              "pinyin": "Tā jīntiān lái bu liǎo.",
+              "ja": "彼は今日来られません。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "这些菜你吃得了吗？",
+              "pinyin": "Zhèxiē cài nǐ chī de liǎo ma?",
+              "ja": "この料理を食べきれますか？",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            },
+            {
+              "zh": "这么多菜我吃不了。",
+              "pinyin": "Zhème duō cài wǒ chī bu liǎo.",
+              "ja": "こんなに多くの料理は食べきれません。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "来得了",
+              "pinyin": "lái de liǎo",
+              "ja": "来られる"
+            },
+            {
+              "zh": "来不了",
+              "pinyin": "lái bu liǎo",
+              "ja": "来られない"
+            },
+            {
+              "zh": "吃得了",
+              "pinyin": "chī de liǎo",
+              "ja": "食べきれる"
+            },
+            {
+              "zh": "吃不了",
+              "pinyin": "chī bu liǎo",
+              "ja": "食べきれない"
+            }
+          ],
+          "grammar": "語句を音読し、語句を使って文を作ります。",
+          "reason": "語句を音読し、語句を使って文を作ります。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-2-1",
+        "title": "2 · 多……啊 1",
+        "sentences": [
+          {
+            "zh": "这件衣服的颜色……，孩子们穿最好看。",
+            "pinyin": "zhè jiàn yī fú de yán sè ……， hái zi men chuān zuì hǎo kàn 。",
+            "ja": "この服の色は……。子どもたちが着るといちばん似合います。",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "多……啊を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "这件衣服的颜色多漂亮啊，孩子们穿最好看。",
+              "pinyin": "Zhè jiàn yīfu de yánsè duō piàoliang a, háizimen chuān zuì hǎokàn.",
+              "ja": "この服の色はなんてきれいなのでしょう。子どもたちが着るといちばん似合います。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "衣服",
+              "pinyin": "yīfu",
+              "ja": "服"
+            },
+            {
+              "zh": "颜色",
+              "pinyin": "yánsè",
+              "ja": "色"
+            },
+            {
+              "zh": "孩子们",
+              "pinyin": "háizimen",
+              "ja": "子どもたち"
+            },
+            {
+              "zh": "穿",
+              "pinyin": "chuān",
+              "ja": "着る"
+            },
+            {
+              "zh": "最好看",
+              "pinyin": "zuì hǎokàn",
+              "ja": "いちばん見栄えがよい"
+            },
+            {
+              "zh": "多",
+              "pinyin": "duō",
+              "ja": "なんて／多い"
+            },
+            {
+              "zh": "漂亮",
+              "pinyin": "piàoliang",
+              "ja": "きれい"
+            },
+            {
+              "zh": "啊",
+              "pinyin": "a",
+              "ja": "感嘆の語気助詞"
+            }
+          ],
+          "grammar": "多＋形容詞＋啊で程度への驚きや感情を表す。",
+          "reason": "多＋形容詞＋啊で程度への驚きや感情を表す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-2-2",
+        "title": "2 · 多……啊 2",
+        "sentences": [
+          {
+            "zh": "上课的时候，我去晚了，你知道我……！",
+            "pinyin": "shàng kè de shí hòu ， wǒ qù wǎn le ， nǐ zhī dào wǒ ……！",
+            "ja": "授業の時、遅れて行ってしまいました。どれほど……だったかわかるでしょう！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "多……啊を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "上课的时候，我去晚了，你知道我多着急啊！",
+              "pinyin": "Shàng kè de shíhou, wǒ qù wǎn le, nǐ zhīdào wǒ duō zháojí a!",
+              "ja": "授業に遅れて、どれほど焦ったかわかるでしょう！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "上课",
+              "pinyin": "shàng kè",
+              "ja": "授業を受ける"
+            },
+            {
+              "zh": "时候",
+              "pinyin": "shíhou",
+              "ja": "時"
+            },
+            {
+              "zh": "去晚了",
+              "pinyin": "qù wǎn le",
+              "ja": "遅れて行った"
+            },
+            {
+              "zh": "多",
+              "pinyin": "duō",
+              "ja": "なんて／多い"
+            },
+            {
+              "zh": "着急",
+              "pinyin": "zháojí",
+              "ja": "焦る"
+            },
+            {
+              "zh": "啊",
+              "pinyin": "a",
+              "ja": "感嘆の語気助詞"
+            }
+          ],
+          "grammar": "多＋形容詞＋啊で程度への驚きや感情を表す。",
+          "reason": "多＋形容詞＋啊で程度への驚きや感情を表す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-2-3",
+        "title": "2 · 多……啊 3",
+        "sentences": [
+          {
+            "zh": "你没去过长城？那……！",
+            "pinyin": "nǐ méi qù guò Chángchéng ？ nà ……！",
+            "ja": "万里の長城に行ったことがないのですか？それは……！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "多……啊を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "你没去过长城？那多可惜啊！",
+              "pinyin": "Nǐ méi qù guo Chángchéng? Nà duō kěxī a!",
+              "ja": "万里の長城に行ったことがないの？それはなんて残念！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "没去过",
+              "pinyin": "méi qù guo",
+              "ja": "行ったことがない"
+            },
+            {
+              "zh": "长城",
+              "pinyin": "Chángchéng",
+              "ja": "万里の長城"
+            },
+            {
+              "zh": "多",
+              "pinyin": "duō",
+              "ja": "なんて／多い"
+            },
+            {
+              "zh": "可惜",
+              "pinyin": "kěxī",
+              "ja": "残念"
+            },
+            {
+              "zh": "啊",
+              "pinyin": "a",
+              "ja": "感嘆の語気助詞"
+            }
+          ],
+          "grammar": "多＋形容詞＋啊で程度への驚きや感情を表す。",
+          "reason": "多＋形容詞＋啊で程度への驚きや感情を表す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-2-4",
+        "title": "2 · 多……啊 4",
+        "sentences": [
+          {
+            "zh": "你爸爸、妈妈都很健康，你们全家……！",
+            "pinyin": "nǐ bà bà 、 mā mā dōu hěn jiàn kāng ， nǐ men quán jiā ……！",
+            "ja": "お父さんもお母さんも健康で、ご家族は……！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "多……啊を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "你爸爸、妈妈都很健康，你们全家多幸福啊！",
+              "pinyin": "Nǐ bàba, māma dōu hěn jiànkāng, nǐmen quán jiā duō xìngfú a!",
+              "ja": "ご両親が健康で、ご家族はなんて幸せなのでしょう！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "爸爸、妈妈",
+              "pinyin": "bàba, māma",
+              "ja": "お父さん、お母さん"
+            },
+            {
+              "zh": "都很健康",
+              "pinyin": "dōu hěn jiànkāng",
+              "ja": "どちらも健康"
+            },
+            {
+              "zh": "全家",
+              "pinyin": "quán jiā",
+              "ja": "家族全員"
+            },
+            {
+              "zh": "多",
+              "pinyin": "duō",
+              "ja": "なんて／多い"
+            },
+            {
+              "zh": "幸福",
+              "pinyin": "xìngfú",
+              "ja": "幸せ"
+            },
+            {
+              "zh": "啊",
+              "pinyin": "a",
+              "ja": "感嘆の語気助詞"
+            }
+          ],
+          "grammar": "多＋形容詞＋啊で程度への驚きや感情を表す。",
+          "reason": "多＋形容詞＋啊で程度への驚きや感情を表す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-2-5",
+        "title": "2 · 多……啊 5",
+        "sentences": [
+          {
+            "zh": "你新买的自行车坏了，……！",
+            "pinyin": "nǐ xīn mǎi de zì xíng chē huài le ，……！",
+            "ja": "買ったばかりの自転車が壊れて、……！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "多……啊を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "你新买的自行车坏了，多可惜啊！",
+              "pinyin": "Nǐ xīn mǎi de zìxíngchē huài le, duō kěxī a!",
+              "ja": "買ったばかりの自転車が壊れたなんて、残念ですね！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "新买的",
+              "pinyin": "xīn mǎi de",
+              "ja": "新しく買った"
+            },
+            {
+              "zh": "自行车",
+              "pinyin": "zìxíngchē",
+              "ja": "自転車"
+            },
+            {
+              "zh": "坏了",
+              "pinyin": "huài le",
+              "ja": "壊れた"
+            },
+            {
+              "zh": "多",
+              "pinyin": "duō",
+              "ja": "なんて／多い"
+            },
+            {
+              "zh": "可惜",
+              "pinyin": "kěxī",
+              "ja": "残念"
+            },
+            {
+              "zh": "啊",
+              "pinyin": "a",
+              "ja": "感嘆の語気助詞"
+            }
+          ],
+          "grammar": "多＋形容詞＋啊で程度への驚きや感情を表す。",
+          "reason": "多＋形容詞＋啊で程度への驚きや感情を表す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-3-1",
+        "title": "3 · 完成对话 1",
+        "sentences": [
+          {
+            "zh": "A：听说你的两张画儿参加了画展，……！ B：谢谢！欢迎参观。",
+            "pinyin": "A： tīng shuō nǐ de liǎng zhāng huà ér cān jiā le huà zhǎn ，……！ B： xiè xiè ！ huān yíng cān guān 。",
+            "ja": "A：あなたの絵2枚が展覧会に出たそうですね。……！ B：ありがとう！ぜひ見に来てください。",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "祝う・祈る表現で会話を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "A：祝贺你！",
+              "pinyin": "A: Zhùhè nǐ!",
+              "ja": "おめでとう！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "参加画展",
+              "pinyin": "cānjiā huàzhǎn",
+              "ja": "展覧会に出品する"
+            },
+            {
+              "zh": "祝贺",
+              "pinyin": "zhùhè",
+              "ja": "お祝いする"
+            },
+            {
+              "zh": "你",
+              "pinyin": "nǐ",
+              "ja": "あなた"
+            }
+          ],
+          "grammar": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。",
+          "reason": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-3-2",
+        "title": "3 · 完成对话 2",
+        "sentences": [
+          {
+            "zh": "A：明天要考试了。 B：……！",
+            "pinyin": "A： míng tiān yào kǎo shì le 。 B：……！",
+            "ja": "A：明日は試験です。 B：……！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "祝う・祈る表現で会話を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "B：祝你考试顺利！",
+              "pinyin": "B: Zhù nǐ kǎoshì shùnlì!",
+              "ja": "試験が順調にいきますように！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "明天",
+              "pinyin": "míngtiān",
+              "ja": "明日"
+            },
+            {
+              "zh": "要考试了",
+              "pinyin": "yào kǎoshì le",
+              "ja": "もうすぐ試験だ"
+            },
+            {
+              "zh": "祝你",
+              "pinyin": "zhù nǐ",
+              "ja": "あなたに〜を祈る"
+            },
+            {
+              "zh": "考试",
+              "pinyin": "kǎoshì",
+              "ja": "試験"
+            },
+            {
+              "zh": "顺利",
+              "pinyin": "shùnlì",
+              "ja": "順調"
+            }
+          ],
+          "grammar": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。",
+          "reason": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-3-3",
+        "title": "3 · 完成对话 3",
+        "sentences": [
+          {
+            "zh": "A：我妈妈来了，我明天陪她出去玩儿玩儿。 B：……！",
+            "pinyin": "A： wǒ mā mā lái le ， wǒ míng tiān péi tā chū qù wán ér wán ér 。 B：……！",
+            "ja": "A：母が来ました。明日は一緒に遊びに出かけます。 B：……！",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "祝う・祈る表現で会話を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "B：祝你们玩儿得开心！",
+              "pinyin": "B: Zhù nǐmen wánr de kāixīn!",
+              "ja": "楽しく遊べますように！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "妈妈来了",
+              "pinyin": "māma lái le",
+              "ja": "母が来た"
+            },
+            {
+              "zh": "陪她",
+              "pinyin": "péi tā",
+              "ja": "彼女に付き添う"
+            },
+            {
+              "zh": "祝",
+              "pinyin": "zhù",
+              "ja": "願う・祈る"
+            },
+            {
+              "zh": "玩儿",
+              "pinyin": "wánr",
+              "ja": "遊ぶ"
+            },
+            {
+              "zh": "开心",
+              "pinyin": "kāixīn",
+              "ja": "楽しい"
+            }
+          ],
+          "grammar": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。",
+          "reason": "祝贺は達成のお祝い、祝＋人＋願いは今後の幸福・成功への願い。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-1",
+        "title": "4 · 结果补语或可能补语 1",
+        "sentences": [
+          {
+            "zh": "房间里太热了，请……。",
+            "pinyin": "fáng jiān lǐ tài rè le ， qǐng ……。",
+            "ja": "部屋が暑すぎるので、どうぞ……。",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "房间里太热了，请打开窗户。",
+              "pinyin": "Fángjiān li tài rè le, qǐng dǎ kāi chuānghu.",
+              "ja": "部屋が暑すぎるので、窓を開けてください。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "房间里",
+              "pinyin": "fángjiān li",
+              "ja": "部屋の中"
+            },
+            {
+              "zh": "太热了",
+              "pinyin": "tài rè le",
+              "ja": "暑すぎる"
+            },
+            {
+              "zh": "打开",
+              "pinyin": "dǎ kāi",
+              "ja": "開ける"
+            },
+            {
+              "zh": "窗户",
+              "pinyin": "chuānghu",
+              "ja": "窓"
+            }
+          ],
+          "grammar": "打开は動作の結果として開いた状態を示す。",
+          "reason": "打开は動作の結果として開いた状態を示す。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-2",
+        "title": "4 · 结果补语或可能补语 2",
+        "sentences": [
+          {
+            "zh": "这是他给你的礼物，请……。",
+            "pinyin": "zhè shì tā gěi nǐ de lǐ wù ， qǐng ……。",
+            "ja": "これは彼からの贈り物です。どうぞ……。",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "这是他给你的礼物，请收下。",
+              "pinyin": "Zhè shì tā gěi nǐ de lǐwù, qǐng shōu xià.",
+              "ja": "これは彼からの贈り物です。受け取ってください。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "给你的礼物",
+              "pinyin": "gěi nǐ de lǐwù",
+              "ja": "あなたへの贈り物"
+            },
+            {
+              "zh": "请",
+              "pinyin": "qǐng",
+              "ja": "どうぞ〜してください"
+            },
+            {
+              "zh": "收下",
+              "pinyin": "shōu xià",
+              "ja": "受け取る"
+            }
+          ],
+          "grammar": "收下は受け取って手元に置く結果。",
+          "reason": "收下は受け取って手元に置く結果。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-3",
+        "title": "4 · 结果补语或可能补语 3",
+        "sentences": [
+          {
+            "zh": "我的手表坏了，……？",
+            "pinyin": "Wǒ de shǒubiǎo huài le, …?",
+            "ja": "私の腕時計が壊れました。……？",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "我的手表坏了，修得好吗？",
+              "pinyin": "Wǒ de shǒubiǎo huài le, xiū de hǎo ma?",
+              "ja": "私の腕時計が壊れました。直せますか？",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "我的手表",
+              "pinyin": "wǒ de shǒubiǎo",
+              "ja": "私の腕時計"
+            },
+            {
+              "zh": "坏了",
+              "pinyin": "huài le",
+              "ja": "壊れた"
+            },
+            {
+              "zh": "修得好",
+              "pinyin": "xiū de hǎo",
+              "ja": "修理できる"
+            },
+            {
+              "zh": "吗",
+              "pinyin": "ma",
+              "ja": "疑問の語気助詞"
+            }
+          ],
+          "grammar": "修＋得＋好で修理の結果が実現できるかを問う可能補語。",
+          "reason": "腕時計が壊れた状況に対して、指定された可能補語を使って修理できるか尋ねる解答例。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-4",
+        "title": "4 · 结果补语或可能补语 4",
+        "sentences": [
+          {
+            "zh": "这么多菜，我们……。",
+            "pinyin": "zhè me duō cài ， wǒ men ……。",
+            "ja": "こんなに多くの料理を、私たちは……。",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "这么多菜，我们吃不了。",
+              "pinyin": "Zhème duō cài, wǒmen chī bu liǎo.",
+              "ja": "こんなに多くの料理は食べきれません。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "吃不了",
+              "pinyin": "chī bu liǎo",
+              "ja": "食べきれない"
+            }
+          ],
+          "grammar": "吃不了は量が多くて食べきれない。",
+          "reason": "吃不了は量が多くて食べきれない。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-5",
+        "title": "4 · 结果补语或可能补语 5",
+        "sentences": [
+          {
+            "zh": "这件衣服真脏，……？",
+            "pinyin": "zhè jiàn yī fú zhēn zàng ，……？",
+            "ja": "この服は本当に汚れています。……？",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "这件衣服真脏，洗得干净吗？",
+              "pinyin": "Zhè jiàn yīfu zhēn zāng, xǐ de gānjìng ma?",
+              "ja": "この服は汚れています。きれいに洗えますか？",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "洗得干净",
+              "pinyin": "xǐ de gānjìng",
+              "ja": "洗ってきれいにできる"
+            }
+          ],
+          "grammar": "洗＋得＋干净で結果が実現できるか問う。",
+          "reason": "洗＋得＋干净で結果が実現できるか問う。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-4-6",
+        "title": "4 · 结果补语或可能补语 6",
+        "sentences": [
+          {
+            "zh": "明天的会你……？",
+            "pinyin": "míng tiān de huì nǐ ……？",
+            "ja": "明日の会議にあなたは……？",
+            "origin": "textbook",
+            "sourceRef": "p.59",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "結果補語または可能補語を使って文を完成する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "明天的会你来得了吗？",
+              "pinyin": "Míngtiān de huì nǐ lái de liǎo ma?",
+              "ja": "明日の会議に来られますか？",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "明天的会",
+              "pinyin": "míngtiān de huì",
+              "ja": "明日の会議"
+            },
+            {
+              "zh": "来得了",
+              "pinyin": "lái de liǎo",
+              "ja": "来られる"
+            },
+            {
+              "zh": "你",
+              "pinyin": "nǐ",
+              "ja": "あなた"
+            }
+          ],
+          "grammar": "来得了は条件上来られること。了はliǎo。",
+          "reason": "来得了は条件上来られること。了はliǎo。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-5-1",
+        "title": "5 · 会话 1",
+        "sentences": [
+          {
+            "zh": "你朋友考试成绩很好，你向他/她祝贺。",
+            "pinyin": "nǐ péng yǒu kǎo shì chéng jì hěn hǎo ， nǐ xiàng tā zhù hè 。",
+            "ja": "友人の試験の成績がとてもよかったので、彼／彼女を祝います。",
+            "origin": "textbook",
+            "sourceRef": "p.60",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "友人の好成績を祝う会話をする。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "你考得真好，祝贺你！",
+              "pinyin": "Nǐ kǎo de zhēn hǎo, zhùhè nǐ!",
+              "ja": "試験がよくできましたね、おめでとう！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "祝贺",
+              "pinyin": "zhùhè",
+              "ja": "お祝いする"
+            },
+            {
+              "zh": "你",
+              "pinyin": "nǐ",
+              "ja": "あなた"
+            }
+          ],
+          "grammar": "成績への評価は考得真好。達成を祝贺で祝う。",
+          "reason": "成績への評価は考得真好。達成を祝贺で祝う。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-5-2",
+        "title": "5 · 会话 2",
+        "sentences": [
+          {
+            "zh": "你的朋友结婚，你去祝贺他/她。",
+            "pinyin": "nǐ de péng yǒu jié hūn ， nǐ qù zhù hè tā 。",
+            "ja": "友人が結婚するので、彼／彼女のお祝いに行きます。",
+            "origin": "textbook",
+            "sourceRef": "p.60",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "友人の結婚を祝う会話をする。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "祝你们新婚愉快，生活幸福！",
+              "pinyin": "Zhù nǐmen xīnhūn yúkuài, shēnghuó xìngfú!",
+              "ja": "ご結婚おめでとうございます。幸せな生活を祈ります！",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "祝",
+              "pinyin": "zhù",
+              "ja": "願う・祈る"
+            },
+            {
+              "zh": "新婚",
+              "pinyin": "xīnhūn",
+              "ja": "新婚"
+            },
+            {
+              "zh": "生活幸福",
+              "pinyin": "shēnghuó xìngfú",
+              "ja": "幸せな生活"
+            }
+          ],
+          "grammar": "祝＋人＋願いで新婚生活を祝福する。",
+          "reason": "祝＋人＋願いで新婚生活を祝福する。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-6",
+        "title": "6 · 听后复述",
+        "sentences": [
+          {
+            "zh": "上星期英语系的同学用英语唱歌、演话剧（huàjù，新劇）。王兰、刘京都参加了。那些同学的英语说得真好，歌唱得更好。以后我们要是能用汉语演话剧就好了。刘京他们班演的话剧是全系第一，王兰唱歌是第三。我们高兴极了，都去祝贺他们。",
+            "pinyin": "Shàng xīngqī Yīngyǔ xì de tóngxué yòng Yīngyǔ chàng gē, yǎn huàjù. Wáng Lán, Liú Jīng dōu cānjiā le. Nàxiē tóngxué de Yīngyǔ shuō de zhēn hǎo, gē chàng de gèng hǎo. Yǐhòu wǒmen yàoshi néng yòng Hànyǔ yǎn huàjù jiù hǎo le. Liú Jīng tāmen bān yǎn de huàjù shì quán xì dì yī, Wáng Lán chàng gē shì dì sān. Wǒmen gāoxìng jí le, dōu qù zhùhè tāmen.",
+            "ja": "先週、英語学科の学生が英語で歌い、劇を演じました。王蘭と劉京も参加しました。学生たちは英語を話すのがとても上手で、歌はさらに上手でした。今後、私たちも中国語で劇を演じられたらいいですね。劉京たちのクラスの劇は学科で1位、王蘭の歌は3位でした。私たちはとても喜び、皆でお祝いに行きました。",
+            "origin": "textbook",
+            "sourceRef": "p.60",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "原文を聞いて（音声未添付のため読んで）から再話する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "上星期，英语系的同学唱歌、演话剧。王兰和刘京都参加了。刘京他们班的话剧是全系第一，王兰唱歌是第三，大家都去祝贺他们。",
+              "pinyin": "Shàng xīngqī, Yīngyǔ xì de tóngxué chàng gē, yǎn huàjù. Wáng Lán hé Liú Jīng dōu cānjiā le. Liú Jīng tāmen bān de huàjù shì quán xì dì yī, Wáng Lán chàng gē shì dì sān, dàjiā dōu qù zhùhè tāmen.",
+              "ja": "先週、英語学科の学生が歌い、劇を演じました。王蘭と劉京も参加しました。劉京たちのクラスの劇は学科で1位、王蘭の歌は3位で、皆でお祝いに行きました。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "话剧",
+              "pinyin": "huàjù",
+              "ja": "現代劇・新劇"
+            },
+            {
+              "zh": "说得真好",
+              "pinyin": "shuō de zhēn hǎo",
+              "ja": "話すのがとても上手"
+            },
+            {
+              "zh": "全系第一",
+              "pinyin": "quán xì dì yī",
+              "ja": "学科全体で1位"
+            },
+            {
+              "zh": "第三",
+              "pinyin": "dì sān",
+              "ja": "3位"
+            },
+            {
+              "zh": "唱歌",
+              "pinyin": "chàng gē",
+              "ja": "歌を歌う"
+            },
+            {
+              "zh": "参加",
+              "pinyin": "cānjiā",
+              "ja": "参加する"
+            },
+            {
+              "zh": "高兴极了",
+              "pinyin": "gāoxìng jí le",
+              "ja": "とても喜んだ"
+            }
+          ],
+          "grammar": "要点を自分の言葉で再話する。原文は上に完全保存し、この解答例は要点を再構成したもの。",
+          "reason": "要点を自分の言葉で再話する。原文は上に完全保存し、この解答例は要点を再構成したもの。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-7-1",
+        "title": "7 · 语音练习（1）",
+        "sentences": [
+          {
+            "zh": "yao → yāoqǐng（邀请）、yáobǎi（摇摆）、yàoshi（钥匙）；wu → wūzi（屋子）、tiào wǔ（跳舞）、fúwùyuán（服务员）",
+            "pinyin": "yao → yāoqǐng（ yāo qǐng ）、yáobǎi（ yáo bǎi ）、yàoshi（ yào shi ）；wu → wūzi（ wū zi ）、tiào wǔ（ tiào wǔ ）、fúwùyuán（ fú wù yuán ）",
+            "ja": "招待する・揺れる・鍵；部屋・踊る・店員（yaoとwuを含む語句）",
+            "origin": "textbook",
+            "sourceRef": "p.60",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "よく使う語句を発音する。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "邀请、摇摆、钥匙；屋子、跳舞、服务员",
+              "pinyin": "Yāoqǐng, yáobǎi, yàoshi; wūzi, tiào wǔ, fúwùyuán.",
+              "ja": "招待する・揺れる・鍵；部屋・踊る・店員",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "邀请",
+              "pinyin": "yāoqǐng",
+              "ja": "招待する"
+            },
+            {
+              "zh": "摇摆",
+              "pinyin": "yáobǎi",
+              "ja": "揺れ動く"
+            },
+            {
+              "zh": "钥匙",
+              "pinyin": "yàoshi",
+              "ja": "鍵"
+            },
+            {
+              "zh": "屋子",
+              "pinyin": "wūzi",
+              "ja": "部屋"
+            },
+            {
+              "zh": "跳舞",
+              "pinyin": "tiào wǔ",
+              "ja": "踊る"
+            },
+            {
+              "zh": "服务员",
+              "pinyin": "fúwùyuán",
+              "ja": "店員・係員"
+            }
+          ],
+          "grammar": "yao・wuを含む語句の声調と音を読み分ける。",
+          "reason": "yao・wuを含む語句の声調と音を読み分ける。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      },
+      {
+        "id": "practice-7-2",
+        "title": "7 · 语音练习（2）",
+        "sentences": [
+          {
+            "zh": "A：Xīnnián hǎo! B：Xīnnián hǎo! Zhù nǐ xīnnián kuàilè! A：Zhù nǐmen quán jiā xìngfú! B：Zhù nǐmen shēntǐ jiànkāng, shēnghuó yúkuài! A：Xièxie!",
+            "pinyin": "A：Xīnnián hǎo! B：Xīnnián hǎo! Zhù nǐ xīnnián kuàilè! A：Zhù nǐmen quán jiā xìngfú! B：Zhù nǐmen shēntǐ jiànkāng, shēnghuó yúkuài! A：Xièxie!",
+            "ja": "A：あけましておめでとう。B：あけましておめでとう。よい新年を！ A：ご家族の幸せを祈ります。B：健康で楽しい生活を祈ります。A：ありがとう。",
+            "origin": "textbook",
+            "sourceRef": "p.60",
+            "status": "verified",
+            "annotationOrigin": "ai",
+            "annotationStatus": "needs-review"
+          }
+        ],
+        "notes": "拼音で書かれた会話を読む。",
+        "exercise": {
+          "answers": [
+            {
+              "zh": "A：新年好！ B：新年好！祝你新年快乐！ A：祝你们全家幸福！ B：祝你们身体健康，生活愉快！ A：谢谢！",
+              "pinyin": "A: Xīnnián hǎo! B: Xīnnián hǎo! Zhù nǐ xīnnián kuàilè! A: Zhù nǐmen quán jiā xìngfú! B: Zhù nǐmen shēntǐ jiànkāng, shēnghuó yúkuài! A: Xièxie!",
+              "ja": "A：あけましておめでとう。B：あけましておめでとう。よい新年を！ A：ご家族の幸せを祈ります。B：健康で楽しい生活を祈ります。 A：ありがとう。",
+              "origin": "ai",
+              "sourceRef": "AI学習補足",
+              "status": "supplement",
+              "annotationOrigin": "ai",
+              "annotationStatus": "needs-review"
+            }
+          ],
+          "tokens": [
+            {
+              "zh": "新年好",
+              "pinyin": "xīnnián hǎo",
+              "ja": "あけましておめでとう"
+            },
+            {
+              "zh": "全家幸福",
+              "pinyin": "quán jiā xìngfú",
+              "ja": "家族全員が幸せ"
+            },
+            {
+              "zh": "身体健康",
+              "pinyin": "shēntǐ jiànkāng",
+              "ja": "健康である"
+            }
+          ],
+          "grammar": "祝＋相手＋願いの語順で、声調を保ちながら会話を読む。",
+          "reason": "祝＋相手＋願いの語順で、声調を保ちながら会話を読む。 文脈と指定の構文に合う解答例です。別解も可能です。",
+          "answerOrigin": "ai"
+        }
+      }
+    ]
+  }
+}
