@@ -1,11 +1,15 @@
 <script lang="ts">
  import Sentence from './Sentence.svelte';
  import type {Item} from '$lib/schemas/lesson';
- let {items,showPinyin=true,showJapanese=true}:{items:Item[];showPinyin?:boolean;showJapanese?:boolean}=$props();
+ let {items,showPinyin=true,showJapanese=true,exerciseGroup=false}:{items:Item[];showPinyin?:boolean;showJapanese?:boolean;exerciseGroup?:boolean}=$props();
 </script>
-{#each items as item (item.id)}
- <article class="card" id={item.id} data-item-id={item.id}>
-  <p class="eyebrow">{item.title}{item.wordClass ? ` · ${item.wordClass}` : ''}</p>
+{#each items as item,index (item.id)}
+ <article class="card" class:practice-question={exerciseGroup} id={item.id} data-item-id={item.id}>
+  {#if exerciseGroup}
+   {#if items.length>1}<h3 class="subquestion-number">（{index+1}）</h3>{/if}
+  {:else}
+   <p class="eyebrow">{item.title}{item.wordClass ? ` · ${item.wordClass}` : ''}</p>
+  {/if}
   {#each item.sentences as sentence}<Sentence {sentence} {showPinyin} {showJapanese}/>{/each}
   {#if item.textbookExplanation}
    <h2 class="small-heading">教科書の説明 · {item.sourceRef}</h2>
@@ -21,7 +25,7 @@
   {#if item.notes && !item.exercise}<details><summary>補足説明を読む</summary><p>{item.notes}</p><p class="provenance">AIによる初心者向け補足</p></details>{/if}
   {#if item.supplementText}<details><summary>既存HTMLの学習補足を読む</summary><p class="original">{item.supplementText}</p><p class="provenance">AI補足。原文はsource/のHTMLに保存。</p></details>{/if}
   {#if item.exercise}
-   <p class="instruction">{item.notes}</p>
+   {#if !exerciseGroup || !items.every(other=>other.notes===item.notes)}<p class="instruction">{item.notes}</p>{/if}
    <details><summary>模範解答・解説を開く</summary>
     <p class="badge">AI作成の解答例 · 別解も可能</p>
     {#each item.exercise.answers as sentence}<Sentence {sentence} {showPinyin} {showJapanese}/>{/each}

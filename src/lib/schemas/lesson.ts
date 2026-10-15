@@ -20,10 +20,16 @@ export type SectionKey = typeof sectionKeys[number];
 export const sectionLabels: Record<SectionKey, string> = {text:'本文・基本文',dialogue:'会話',grammar:'文法',vocabulary:'単語',replacements:'置き換え',expansion:'広げる',practice:'練習・解答解説'};
 export const lessonSchema = z.object({
   schemaVersion: z.literal(1), id: z.string().regex(/^lesson-\d+$/), number: z.number().int().positive(), title: nonempty, subtitle: nonempty, book: nonempty,
+  practiceGroups: z.array(z.object({number:z.number().int().positive(),title:nonempty,instruction:nonempty,itemIds:z.array(nonempty).min(1)}).strict()),
   sources: z.array(z.object({file:nonempty,description:nonempty}).strict()).min(1),
   issues: z.array(z.object({id:nonempty,location:nonempty,message:nonempty,status:z.literal('needs-review')}).strict()),
   sections: z.object(Object.fromEntries(sectionKeys.map(k=>[k,z.array(itemSchema)])) as Record<SectionKey,z.ZodArray<typeof itemSchema>>).strict()
 }).strict().superRefine((lesson,ctx)=>{
+  const groupedIds=lesson.practiceGroups.flatMap(group=>group.itemIds);
+  const practiceIds=lesson.sections.practice.map(item=>item.id);
+  if(JSON.stringify(groupedIds)!==JSON.stringify(practiceIds)) ctx.addIssue({code:'custom',message:'練習の大問に小問の欠落・重複・順序不整合があります'});
+  if(new Set(lesson.practiceGroups.map(group=>group.number)).size!==lesson.practiceGroups.length) ctx.addIssue({code:'custom',message:'練習の大問番号が重複しています'});
+  for(const group of lesson.practiceGroups) for(const id of group.itemIds) if(id!==`practice-${group.number}`&&!id.startsWith(`practice-${group.number}-`)) ctx.addIssue({code:'custom',message:`大問と小問の番号が一致しません: ${id}`});
   const ids = new Set<string>();
   for (const key of sectionKeys) for (const item of lesson.sections[key]) {
     if(ids.has(item.id)) ctx.addIssue({code:'custom',message:`ID重複: ${item.id}`});

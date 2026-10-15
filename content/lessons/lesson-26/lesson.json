@@ -2969,5 +2969,79 @@
         }
       }
     ]
-  }
+  },
+  "practiceGroups": [
+    {
+      "number": 1,
+      "title": "熟读下列短语并选择几个造句",
+      "instruction": "語句をよく読み、いくつか選んで文を作りなさい。",
+      "itemIds": [
+        "practice-1-1",
+        "practice-1-2",
+        "practice-1-3",
+        "practice-1-4"
+      ]
+    },
+    {
+      "number": 2,
+      "title": "用“多……啊”完成句子",
+      "instruction": "「多……啊」を使って、次の文を完成しなさい。",
+      "itemIds": [
+        "practice-2-1",
+        "practice-2-2",
+        "practice-2-3",
+        "practice-2-4",
+        "practice-2-5"
+      ]
+    },
+    {
+      "number": 3,
+      "title": "完成对话（用上祝愿、祝贺的话）",
+      "instruction": "「祝う」「祈る」の意味を表す言葉を使って、次の会話を完成しなさい。",
+      "itemIds": [
+        "practice-3-1",
+        "practice-3-2",
+        "practice-3-3"
+      ]
+    },
+    {
+      "number": 4,
+      "title": "用结果补语或可能补语完成句子",
+      "instruction": "結果補語または可能補語を使って、次の文を完成しなさい。",
+      "itemIds": [
+        "practice-4-1",
+        "practice-4-2",
+        "practice-4-3",
+        "practice-4-4",
+        "practice-4-5",
+        "practice-4-6"
+      ]
+    },
+    {
+      "number": 5,
+      "title": "会话",
+      "instruction": "次の場面に合う、お祝いの会話をしなさい。",
+      "itemIds": [
+        "practice-5-1",
+        "practice-5-2"
+      ]
+    },
+    {
+      "number": 6,
+      "title": "听后复述",
+      "instruction": "原文を聞いてから、内容を自分の言葉で述べなさい。音声未収録のため、ここでは原文を読んで練習します。",
+      "itemIds": [
+        "practice-6"
+      ]
+    },
+    {
+      "number": 7,
+      "title": "语音练习",
+      "instruction": "語句の発音と会話の音読を練習しなさい。",
+      "itemIds": [
+        "practice-7-1",
+        "practice-7-2"
+      ]
+    }
+  ]
 }

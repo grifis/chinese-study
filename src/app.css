@@ -8,3 +8,16 @@
 .display-controls label{min-height:44px;padding:4px 10px;cursor:pointer}
 .study-reader:has(#pinyin-toggle:not(:checked)) .study-content .pinyin{display:none}
 .study-reader:has(#japanese-toggle:not(:checked)) .study-content .translation{display:none}
+
+/* Exercise directions precede numbered questions; size the prompt for phone reading. */
+.practice-nav{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 28px}
+.practice-nav a{display:inline-flex;align-items:center;min-height:44px;padding:6px 14px;border:1px solid #c9d6c4;border-radius:10px;font-size:15px;background:#fffef9}
+.practice-group{margin:36px 0 48px;scroll-margin-top:20px}
+.practice-group-heading{padding:22px 20px;background:#e7edde;border-left:4px solid #477c63;border-radius:0 14px 14px 0;margin-bottom:20px}
+.practice-group-heading h2{font-size:24px;line-height:1.7;letter-spacing:.025em;overflow-wrap:anywhere}
+.practice-group-heading p{font-size:18px;line-height:1.9;margin-top:12px;color:#435c4c}
+.subquestion-number{font-size:21px;font-weight:700;color:#37674d;margin:0 0 14px}
+.practice-question>.sentence>.zh{font-size:26px;line-height:1.95}
+.practice-question>.sentence>.translation{font-size:16px;line-height:1.9}
+.practice-question>.instruction{font-size:16px;line-height:1.9}
+@media(max-width:600px){.practice-group-heading{padding:20px 16px}.practice-group-heading h2{font-size:23px}.practice-question>.sentence>.zh{font-size:26px}}
