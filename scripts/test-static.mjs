@@ -13,7 +13,8 @@ for(const slug of readdirSync('content/lessons')){
  for(const [section,items] of Object.entries(lesson.sections)){
   const html=assertPage(`lessons/${slug}/${section}`);
   const ids=[...html.matchAll(/data-item-id="([^"]+)"/g)].map(m=>m[1]);
-  assert.deepEqual(ids,items.map(i=>i.id),`${section}の静的出力に欠落があります`);
+  const expectedIds=section==='grammar'?lesson.grammarGroups.flatMap(g=>[...g.itemIds,...g.supplementIds]).concat(lesson.grammarSupplementIds):items.map(i=>i.id);
+  assert.deepEqual(ids,expectedIds,`${section}の静的出力に欠落があります`);
   assert(html.includes('id="pinyin-toggle"')&&html.includes('id="japanese-toggle"'),'表示切り替えがありません');
   assert(html.includes('class="zh"'),'中国語本文がありません');
  }

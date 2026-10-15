@@ -1,11 +1,13 @@
 <script lang="ts">
  import Sentence from './Sentence.svelte';
  import type {Item} from '$lib/schemas/lesson';
- let {items,showPinyin=true,showJapanese=true,exerciseGroup=false}:{items:Item[];showPinyin?:boolean;showJapanese?:boolean;exerciseGroup?:boolean}=$props();
+ let {items,showPinyin=true,showJapanese=true,exerciseGroup=false,grammarSupplement=false}:{items:Item[];showPinyin?:boolean;showJapanese?:boolean;exerciseGroup?:boolean;grammarSupplement?:boolean}=$props();
 </script>
 {#each items as item,index (item.id)}
  <article class="card" class:practice-question={exerciseGroup} id={item.id} data-item-id={item.id}>
-  {#if exerciseGroup}
+  {#if grammarSupplement}
+   <h4 class="grammar-supplement-title">{item.title}</h4>
+  {:else if exerciseGroup}
    {#if items.length>1}<h3 class="subquestion-number">（{index+1}）</h3>{/if}
   {:else}
    <p class="eyebrow">{item.title}{item.wordClass ? ` · ${item.wordClass}` : ''}</p>

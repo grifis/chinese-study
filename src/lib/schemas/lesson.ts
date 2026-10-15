@@ -20,11 +20,21 @@ export type SectionKey = typeof sectionKeys[number];
 export const sectionLabels: Record<SectionKey, string> = {text:'本文・基本文',dialogue:'会話',grammar:'文法',vocabulary:'単語',replacements:'置き換え',expansion:'広げる',practice:'練習・解答解説'};
 export const lessonSchema = z.object({
   schemaVersion: z.literal(1), id: z.string().regex(/^lesson-\d+$/), number: z.number().int().positive(), title: nonempty, subtitle: nonempty, book: nonempty,
+  grammarGroups:z.array(z.object({number:z.number().int().positive(),title:nonempty,itemIds:z.array(nonempty).min(1),supplementIds:z.array(nonempty),explanation:z.array(nonempty).min(1)}).strict()),
+  grammarSupplementIds:z.array(nonempty),
   practiceGroups: z.array(z.object({number:z.number().int().positive(),title:nonempty,instruction:nonempty,itemIds:z.array(nonempty).min(1)}).strict()),
   sources: z.array(z.object({file:nonempty,description:nonempty}).strict()).min(1),
   issues: z.array(z.object({id:nonempty,location:nonempty,message:nonempty,status:z.literal('needs-review')}).strict()),
   sections: z.object(Object.fromEntries(sectionKeys.map(k=>[k,z.array(itemSchema)])) as Record<SectionKey,z.ZodArray<typeof itemSchema>>).strict()
 }).strict().superRefine((lesson,ctx)=>{
+  const grammarIds=lesson.grammarGroups.flatMap(group=>[...group.itemIds,...group.supplementIds]).concat(lesson.grammarSupplementIds);
+  const expectedGrammarIds=lesson.sections.grammar.map(item=>item.id);
+  if(grammarIds.length!==expectedGrammarIds.length||new Set(grammarIds).size!==grammarIds.length||grammarIds.some(id=>!expectedGrammarIds.includes(id)))ctx.addIssue({code:'custom',message:'文法の見出しに項目の欠落・重複があります'});
+  if(new Set(lesson.grammarGroups.map(group=>group.number)).size!==lesson.grammarGroups.length)ctx.addIssue({code:'custom',message:'文法の番号が重複しています'});
+  for(const group of lesson.grammarGroups){
+   for(const id of group.itemIds)if(!lesson.sections.grammar.find(item=>item.id===id)?.textbookExplanation)ctx.addIssue({code:'custom',message:`教科書の説明がありません: ${id}`});
+  }
+  for(const id of [...lesson.grammarGroups.flatMap(group=>group.supplementIds),...lesson.grammarSupplementIds])if(lesson.sections.grammar.find(item=>item.id===id)?.textbookExplanation)ctx.addIssue({code:'custom',message:`教科書の説明をAI補足に移動できません: ${id}`});
   const groupedIds=lesson.practiceGroups.flatMap(group=>group.itemIds);
   const practiceIds=lesson.sections.practice.map(item=>item.id);
   if(JSON.stringify(groupedIds)!==JSON.stringify(practiceIds)) ctx.addIssue({code:'custom',message:'練習の大問に小問の欠落・重複・順序不整合があります'});

@@ -21,3 +21,19 @@
 .practice-question>.sentence>.translation{font-size:16px;line-height:1.9}
 .practice-question>.instruction{font-size:16px;line-height:1.9}
 @media(max-width:600px){.practice-group-heading{padding:20px 16px}.practice-group-heading h2{font-size:23px}.practice-question>.sentence>.zh{font-size:26px}}
+/* Keep textbook explanations before examples and distinguish added teaching notes. */
+.grammar-group{margin:36px 0 52px;scroll-margin-top:20px}
+.grammar-block-title{font-size:20px;font-weight:700;line-height:1.7;margin:18px 0 14px}
+.grammar-block-title .badge{vertical-align:middle;margin:4px 0 4px 8px}
+.grammar-part-title,.grammar-supplement-title{font-size:19px;font-weight:600;line-height:1.8;margin-bottom:14px}
+.grammar-source>.original{font-size:19px;line-height:2;margin:14px 0}
+.grammar-source>.translation{font-size:17px;line-height:2}
+.grammar-source>.sentence>.zh{font-size:25px;line-height:1.9}
+.grammar-help{margin-top:26px;padding:22px;background:#eaf0e3;border-radius:16px}
+.grammar-help>.grammar-block-title{margin-top:0}
+.grammar-help-paragraph{font-size:17px;line-height:2;margin:16px 0;overflow-wrap:anywhere}
+.grammar-example-notes{border-top:1px solid #d1ddc7;padding-top:10px;margin-top:20px}
+.grammar-example-notes p{font-size:16px;line-height:1.9;margin:12px 0}
+.grammar-help .card{margin-bottom:0}
+.grammar-related-intro{font-size:16px;line-height:1.9;margin-top:12px}
+@media(max-width:600px){.grammar-help{padding:20px 14px}.grammar-block-title{font-size:20px}.grammar-source>.original{font-size:19px}.grammar-source>.translation{font-size:17px}}
