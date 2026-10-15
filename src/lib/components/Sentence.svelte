@@ -9,6 +9,6 @@
   <p class="zh" lang="zh-Hans">{sentence.zh}</p>
   {#if showPinyin}<p class="pinyin">{sentence.pinyin}</p>{/if}
   {#if showJapanese}<p class="translation">{sentence.ja}</p>{/if}
-  <p class="provenance">{sentence.origin==='textbook'?'教科書原文':'AI作成・学習補足'} · {sentence.sourceRef}{sentence.origin==='textbook'?' / 拼音・訳は学習補足':''}</p>
+  <p class="provenance">{#if sentence.origin==='textbook'}教科書原文 · {sentence.sourceRef} / 拼音・訳は学習補足{:else}AIによる補足例文{/if}</p>
  </div>
 {/if}

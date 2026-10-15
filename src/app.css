@@ -37,3 +37,6 @@
 .grammar-help .card{margin-bottom:0}
 .grammar-related-intro{font-size:16px;line-height:1.9;margin-top:12px}
 @media(max-width:600px){.grammar-help{padding:20px 14px}.grammar-block-title{font-size:20px}.grammar-source>.original{font-size:19px}.grammar-source>.translation{font-size:17px}}
+
+.grammar-support-copy{font-size:17px;line-height:2;white-space:pre-line;margin:16px 0 20px;overflow-wrap:anywhere}
+.grammar-support-note{font-size:16px;line-height:1.9;margin-top:20px;padding-top:14px;border-top:1px solid #e0e5d7;overflow-wrap:anywhere}

@@ -29,7 +29,11 @@ for(const {lesson} of catalog){
    }
    for(const paragraph of group.explanation)expect(html.indexOf(escape(paragraph))).toBeGreaterThan(helpStart);
   }
-  for(const entry of lesson.sections.grammar.filter(i=>i.supplementText))expect(body).toContain(escape(entry.supplementText!));
+  for(const entry of lesson.sections.grammar.filter(i=>i.supplementText)){
+   expect(body).toContain(`<p class="grammar-support-copy">${escape(entry.supplementText!)}</p>`);
+   expect(body).toContain(escape(entry.notes));
+  }
+  expect(body).not.toMatch(/既存HTML|提供HTML|source\/|移行した|つまずきやすいポイントを表示/);
  });
  it('文法のグループで欠落・重複・不明IDを拒否する',()=>{
   for(const change of ['missing','duplicate','unknown']){

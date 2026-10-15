@@ -6,7 +6,7 @@
  const score=$derived(questions.filter(q=>choices[q.id]===q.correctIndex).length);
  const answered=$derived(Object.keys(choices).length);
 </script>
-<p class="notice">既存HTMLから移行したAI作成クイズ。教科書の練習問題とは別の学習補足です。</p>
+<p class="notice">学習内容を振り返るAI作成クイズです。教科書の練習問題とは別の学習補足です。</p>
 {#if answered}<p aria-live="polite" class="score">{answered} / {questions.length}問回答 · 正解 {score}問</p><button onclick={()=>choices={}}>回答をリセット</button>{/if}
 {#each questions as q,n}
  <article class="card" data-quiz-id={q.id}>

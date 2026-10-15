@@ -7,6 +7,7 @@
  <article class="card" class:practice-question={exerciseGroup} id={item.id} data-item-id={item.id}>
   {#if grammarSupplement}
    <h4 class="grammar-supplement-title">{item.title}</h4>
+   {#if item.supplementText}<p class="grammar-support-copy">{item.supplementText}</p>{/if}
   {:else if exerciseGroup}
    {#if items.length>1}<h3 class="subquestion-number">（{index+1}）</h3>{/if}
   {:else}
@@ -24,8 +25,9 @@
    <h2 class="small-heading">置き換え後の完成文</h2>
    {#each item.completed??[] as sentence}<Sentence {sentence} {showPinyin} {showJapanese}/>{/each}
   {/if}
-  {#if item.notes && !item.exercise}<details><summary>補足説明を読む</summary><p>{item.notes}</p><p class="provenance">AIによる初心者向け補足</p></details>{/if}
-  {#if item.supplementText}<details><summary>既存HTMLの学習補足を読む</summary><p class="original">{item.supplementText}</p><p class="provenance">AI補足。原文はsource/のHTMLに保存。</p></details>{/if}
+  {#if grammarSupplement && item.notes}<p class="grammar-support-note">{item.notes}</p>
+  {:else if item.notes && !item.exercise}<details><summary>補足説明を読む</summary><p>{item.notes}</p><p class="provenance">AIによる初心者向け補足</p></details>{/if}
+  {#if item.supplementText && !grammarSupplement}<details><summary>補足説明を読む</summary><p class="original">{item.supplementText}</p><p class="provenance">AIによる学習補足</p></details>{/if}
   {#if item.exercise}
    {#if !exerciseGroup || !items.every(other=>other.notes===item.notes)}<p class="instruction">{item.notes}</p>{/if}
    <details><summary>模範解答・解説を開く</summary>
